@@ -1,0 +1,45 @@
+Created by Lang Xu 2/19/2020
+
+Description of the testing regarding the result page with FXRuby
+
+For the result page, we designed it to present a table of job postings with 10 column headers as each of the job attributes:
+
+1. University Title
+2. Working Title
+3. Job Category
+4. Department
+5. Location
+6. Full/Part Time
+7. Application deadline
+8. Job Number
+9. Salary
+10.Link
+
+Tests completed with a standard blank table
+
+Test completed with a blank table that doesn't show row headers
+
+Test completed with a blank table with a specified number of columns and rows
+
+Test completed with inserting elements into specified cell
+
+Test completed with adjusting window size to specified value
+
+Tests completed with each attributes initialized as column headers
+
+Tests completed with enlarging column header size to display full text
+
+Tests completed with orienting text to the center in column headers
+
+Tests completed with fixed size table with Job Posting printed for each tuple
+
+Tests completed with dynamic sized table with simple data
+
+Tests completed with initializing dynamic sized table given an array of data
+
+Tests completed with adjusting cell size and text orientation to make better visual effects
+
+Tests completed with printing correct month/day/year due date format
+
+Tests completed with initializing dynamic sized table given an array of job objects
+

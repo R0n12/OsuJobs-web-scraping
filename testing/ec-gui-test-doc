@@ -1,0 +1,25 @@
+Testing plan for the Search Page portion of the GUI
+Created 2/18/2020 by Ern Chi Khoo
+
+- starting the application should create a new window that has:
+	- the title of the site on the very top of the page
+	- several search queries that are:
+		- a text box if the user can enter a search query
+		- a drop down menu if the user can pick from given options 
+	- the extra functionality are implemented through:
+		- a checkbox that allows users to sort each individual results page alphabetically
+		- a textbox that allows users to enter a due date for each job post
+		- a drop down menu for the user to pick the type of salary they want for the job post
+	- a search button at the bottom of the page
+
+- the user can:
+	- enter any query or search input for any queries in the search page
+	- clicking the search button will:
+		- open a new window where the results will be displayed 
+	
+- to test the page:
+	- the program was executed to ensure that: 
+		- all the search queries that were parsed from the search page were generated 
+		- all the options from extra functionality were generated
+	- each drop down menu was selected to ensure all options were listed in the menu
+	- each text box query was tested by entering a search query
