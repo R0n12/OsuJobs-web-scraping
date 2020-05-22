@@ -1,4 +1,4 @@
-OSUJobs-Scraping
+# OSUJobs-Scraping
 ### Goal
 Our goal in this project was to allow users to search the jobsatosu.com website and allow them to have additional search criteria and see relevant information of each job post without having to individually click on each link. After the user makes a query, for each page of the results that is scraped, there will be maximum of 30 individual job post pages that are scraped for information. 
 ### Running the program 
