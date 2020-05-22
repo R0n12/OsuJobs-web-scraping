@@ -1,4 +1,4 @@
-# Project 3
+OSUJobs-Scraping
 ### Goal
 Our goal in this project was to allow users to search the jobsatosu.com website and allow them to have additional search criteria and see relevant information of each job post without having to individually click on each link. After the user makes a query, for each page of the results that is scraped, there will be maximum of 30 individual job post pages that are scraped for information. 
 ### Running the program 
@@ -15,8 +15,7 @@ Our goal in this project was to allow users to search the jobsatosu.com website 
 * Documentation: Jasmohan Bawa
 
 ### Contributions
-Please list who did what for each part of the project.
-Also list if people worked together (pair programmed) on a particular section.
+
 
 Ern Chi Khoo: Implemented ParseSearch class to parse all queries on the search page, implemented GUI for the search page, worked with Juhee to debug WebScraping
 
@@ -28,5 +27,5 @@ Jasmohan Bawa: Implemented function to parse through the scraped results HTML pa
 
 Daniel Lim: Implemented function to scrape the next and previous page and implemented function to parse the result and added sorting function to the GUI.
 
-### Helpful Tips for the Grader! :)
+### Helpful Tips
 Our program does take some time because it is loading through a lot of pages to get all the data, we promise it hasn't crashed or frozen. Also, the program may automically dim after some time, but that depends on the laptop the program is running on, as this has happened for certain members when testing the program. However, the program dimming is not an indication that it is shutting down. 
